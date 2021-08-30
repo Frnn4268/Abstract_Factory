@@ -1,0 +1,13 @@
+Abstract_Factory\Marvel.class
+Abstract_Factory\Heroe.class
+Abstract_Factory\Factory_Personaje.class
+Abstract_Factory\Nintendo.class
+Abstract_Factory\Villano.class
+Abstract_Factory\Main.class
+Abstract_Factory\Marvel_Heroe.class
+Abstract_Factory\DC_Villano.class
+Abstract_Factory\Nintendo_Villano.class
+Abstract_Factory\DC_Heroe.class
+Abstract_Factory\Marvel_Villano.class
+Abstract_Factory\Nintendo_Heroe.class
+Abstract_Factory\DC_Comics.class
